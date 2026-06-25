@@ -85,5 +85,3 @@ I'd love feedback on:
 * User interface and workflow
 * Additional features you'd like to see
 * Integration with reference managers (Zotero, Mendeley, EndNote, etc.)
-
-# check-my-reference
