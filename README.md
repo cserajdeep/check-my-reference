@@ -18,8 +18,8 @@ To help address this problem, I've developed a **Reference Verifier** that cross
   * CORE
   * DataCite
   * Google Scholar
-* Detects:
 
+* Detects:
   * Hallucinated references
   * Incorrect metadata
   * DOI mismatches
@@ -29,6 +29,13 @@ To help address this problem, I've developed a **Reference Verifier** that cross
 ### 📊 Example Verification Results
 
 Recently tested on 7 IoT/Federated Learning references:
+
+<table>
+<tr>
+<td><img src="images/check-my-reference-home.png" width="400"></td>
+<td><img src="images/check-my-reference-output.png" width="400"></td>
+</tr>
+</table>
 
 ✅ **7 Verified References**
 ⚠️ **3 Year Mismatches Detected**
