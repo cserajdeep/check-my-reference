@@ -4,7 +4,7 @@ As researchers, we've all encountered suspicious, incomplete, or even hallucinat
 
 To help address this problem, I've developed a **Reference Verifier** that cross-checks references against multiple independent scholarly databases and identifies potentially fake, incorrect, or inconsistent citations.
 
-# Check-My-Reference: https://reference-verifier.onrender.com/
+### Check-My-Reference: https://reference-verifier.onrender.com/
 
 ### 🔍 What it does
 
