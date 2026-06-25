@@ -32,8 +32,8 @@ Recently tested on 7 IoT/Federated Learning references:
 
 <table>
 <tr>
-<td><img src="images/check-my-reference-home.png" width="400"></td>
-<td><img src="images/check-my-reference-output.png" width="400"></td>
+<td><img src="images/check-my-reference-home.png" width="400" height="600"></td>
+<td><img src="images/check-my-reference-output.png" width="400" height="600"></td>
 </tr>
 </table>
 
