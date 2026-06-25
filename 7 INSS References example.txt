@@ -1,0 +1,7 @@
+Li, H., Ge, L., & Tian, L. (2024). Survey: Federated Learning Data Security and Privacy-Preserving in Edge-Internet of Things. Artificial Intelligence Review, 57, 130.
+Liu, C., Tan, R., Wu, Y., et al. (2024). Dissecting Zero Trust: Research Landscape and its Implementation in IoT. Cybersecurity, 7, 20.
+Ghaffari, A., Jelodari, N., Pouralish, S., et al. (2024). Securing Internet of Things Using Machine and Deep Learning Methods: A Survey. Cluster Computing, 27, 9065–9089.
+Nguyen, D.C., Ding, M., Pathirana, P.N., et al. (2021). Federated Learning for Internet of Things: A Comprehensive Survey.
+Jiang, Y., Ma, B., Wang, X., et al. (2023). Blockchained Federated Learning for Internet of Things: A Comprehensive Survey.
+Zhang, T., He, C., Ma, T., et al. (2021). Federated Learning for Internet of Things: A Federated Learning Framework for On-device Anomaly Data Detection.
+Zhang, T., Gao, L., He, C., et al. (2021). Federated Learning for Internet of Things: Applications, Challenges, and Opportunities.
